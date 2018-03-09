@@ -6,7 +6,8 @@ Records generated based on field array defined in app.js list.
 vm.fields = [
     {label: 'Name', key: 'name'},
     {label: 'Email', key: 'email'},
-    {label: 'Phone', key: 'phone'}
+    {label: 'Phone', key: 'phone'},
+    {label: 'Location', key: 'location'}
 ];
 ```
 
